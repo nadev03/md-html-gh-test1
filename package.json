@@ -1,0 +1,11 @@
+{
+  "name": "gp-test-gen1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate.js",
+  "scripts": {
+    "build": "node generate.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
